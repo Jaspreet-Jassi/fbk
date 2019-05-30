@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="308" started-at="2019-05-20T05:33:27Z" finished-at="2019-05-20T05:33:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="308" started-at="2019-05-20T05:33:27Z" finished-at="2019-05-20T05:33:27Z">
+      <class name="com.fbk.TestCases.Testcase">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.fbk.TestCases.Testcase@1565ec2]" name="add" duration-ms="75" started-at="2019-05-20T05:33:27Z" finished-at="2019-05-20T05:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.fbk.TestCases.Testcase@1565ec2]" name="sub" duration-ms="42" started-at="2019-05-20T05:33:27Z" finished-at="2019-05-20T05:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.fbk.TestCases.Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

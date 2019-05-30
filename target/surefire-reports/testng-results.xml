@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="187" started-at="2019-05-20T05:54:28Z" finished-at="2019-05-20T05:54:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="187" started-at="2019-05-20T05:54:28Z" finished-at="2019-05-20T05:54:29Z">
+      <class name="com.fbk.TestCases.TestCase1">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.fbk.TestCases.TestCase1@82d64]" name="add" duration-ms="0" started-at="2019-05-20T05:54:29Z" finished-at="2019-05-20T05:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.fbk.TestCases.TestCase1@82d64]" name="sub" duration-ms="0" started-at="2019-05-20T05:54:29Z" finished-at="2019-05-20T05:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.fbk.TestCases.TestCase1 -->
+      <class name="com.fbk.TestCases.Testcase">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.fbk.TestCases.Testcase@d94a8b]" name="add" duration-ms="54" started-at="2019-05-20T05:54:29Z" finished-at="2019-05-20T05:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.fbk.TestCases.Testcase@d94a8b]" name="sub" duration-ms="1" started-at="2019-05-20T05:54:29Z" finished-at="2019-05-20T05:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.fbk.TestCases.Testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
